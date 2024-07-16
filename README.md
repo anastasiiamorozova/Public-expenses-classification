@@ -1,7 +1,7 @@
 # Public-expenses-classification
 Public funding allocation classified by recipient organization name
 
-The analysis is a part of investigation published at Frontstory.pl: 
+The analysis is a starting point of investigation published at Frontstory.pl: 
 https://frontstory.pl/lasy-panstwowe-pieniadze-fundusz-darowizny-kosciol-solidarna-polska/ 
 
 During eight years of PiS rule in Poland, forest districts transferred tens of millions for 'socially useful purposes.' Many of these funds went to churches and organizations that promoted 'national values' or supported the logging of the Białowieża Forest. Money also went to entities from which foresters profited.
